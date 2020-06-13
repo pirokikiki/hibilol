@@ -50,7 +50,7 @@ header {
 }
 
 .top{
-  padding:250px 0px;
+  padding:150px 0px;
   background-image: "../image/b051.jpg";
   background-size: cover;
   text-align: center;
@@ -58,6 +58,6 @@ header {
 }
 
 .container {
-  width:1170px;
+  width:100%;
   margin:0 auto;
 }
