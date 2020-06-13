@@ -51,7 +51,7 @@ header {
 
 .top{
   padding:150px 0px;
-  background-image: "../image/b051.jpg";
+  background-image: url("../b051.jpg");
   background-size: cover;
   text-align: center;
 
